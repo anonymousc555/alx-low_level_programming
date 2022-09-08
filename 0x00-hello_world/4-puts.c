@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * int main - contains all codes
  * puts - send file output
  */
