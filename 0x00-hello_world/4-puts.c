@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - contains all codes
+ * int main - contains all codes
  * puts - send file output
  */
 int main(void)
