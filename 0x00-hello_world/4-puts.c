@@ -1,10 +1,10 @@
 #include <stdio.h>
 /*
- * Entry point
- * contains all codes
+ * main - contains all codes
+ * puts - send file output
  */
-int main (void)
+int main(void)
 {
-	puts ("\"Programming is like building a multilingual puzzle\n");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle\n");
+	return (0);
 }
