@@ -21,7 +21,7 @@ int main(void)
 				if (num1 == num2 && num2 == num3 && num3 == num1)
 					break;
 			putchar((num1 % 10) + '0');
-			putchar((mum2 % 10) + '0');
+			putchar((num2 % 10) + '0');
 			putchar((num3 % 10) + '0');
 			putchar(',');
 			putchar(' ');
