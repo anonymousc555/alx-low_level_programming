@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - void Function
  *
  * Description: Prints alphabet in lower case using cusom header functions
  *
@@ -11,10 +11,9 @@ void print_alphabet(void)
 {
 	int a;
 
-	char c[27] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '\n'};
-
-	for (a = 0; a < (int) sizeof(c); a++)
+	for (a = 'a'; a <= 'z'; a++)
 	{
+		/* call the _putchar function in the main.h file */
 		_putchar(c[a]);
 	}
 }
