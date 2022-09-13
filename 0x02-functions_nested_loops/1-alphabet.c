@@ -14,6 +14,7 @@ void print_alphabet(void)
 	for (a = 'a'; a <= 'z'; a++)
 	{
 		/* call the _putchar function in the main.h file */
-		_putchar(c[a]);
+		_putchar(a);
 	}
+	_putchar('\n');
 }
