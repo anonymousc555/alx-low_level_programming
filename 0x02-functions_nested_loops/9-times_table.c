@@ -24,6 +24,12 @@ while (a <= 9)
 		}
 		else if (rep < 10)
 		{
+			_putchar(' ');
+			_putchar('0' + rep);
+		}
+
+		else
+		{
 			_putchar('0' + rep / 10);
 			_putchar('0' + rep % 10);
 		}
