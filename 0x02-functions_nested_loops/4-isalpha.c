@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _isalpha - Function
- *
- * Description: checks for lower case 
+ * @c: character to check case
+ * Description: checks for lower case
  *
  * Return: 0
  */
