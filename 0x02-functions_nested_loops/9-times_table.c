@@ -20,7 +20,7 @@ while (a <= 9)
 		rep = a * b;
 		if (b == 0)
 		{
-			_putcahr('0' + rep);
+			_putchar('0' + rep);
 		}
 		else if (rep < 10)
 		{
@@ -35,7 +35,7 @@ while (a <= 9)
 		}
 		b++;
 	}
-	putchar('\n');
+	_putchar('\n');
 	a++;
 }
 }
