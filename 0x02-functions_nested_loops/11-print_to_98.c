@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - Function
+ * print_to_98 - Function
  * Description: print to 98
  * @n: number to begin with
  * Return: 0 or 1
@@ -15,7 +15,7 @@ while (n < 98)
 	n++;
 
 }
-while (n < 98)
+while (n > 98)
 {
 	printf("%i, ", n);
 	n--;
