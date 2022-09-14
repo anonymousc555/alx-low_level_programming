@@ -29,7 +29,7 @@ while (h2 == 2)
 		m2 = 0;
 		while (m2 <= 5)
 		{
-			m11 = 0;
+			m1 = 0;
 			while (m1 <= 9)
 			{
 				_putchar('0' + h2);
