@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: computes and prints the sum of 
+ * Description: computes and prints the sum of
  * 3 and 5 below 1024
  * Return:0
  */
