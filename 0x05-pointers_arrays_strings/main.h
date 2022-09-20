@@ -3,6 +3,6 @@
 
 int _putchar(char);
 void swap_int(int *a, int *b);
-_strlen(const char *str);
+void _strlen(const char *str);
 
 #endif /* MAIN_H */

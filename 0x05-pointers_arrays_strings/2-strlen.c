@@ -6,7 +6,7 @@
  *
  * Return: The length of @str
  */
-_strlen(const char *str)
+int _strlen(const char *str)
 {
 	size_t length = 0;
 
