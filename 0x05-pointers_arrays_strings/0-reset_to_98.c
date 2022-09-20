@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 resets the value of n to 98
- * @n: parameter
+ * @p: parameter
  * Return: 0
  */
 
